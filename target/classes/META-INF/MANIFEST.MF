@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Akhil Repalle
+Build-Jdk: 15.0.1
+Implementation-Title: ShoppingCartMegamart_May01
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.mindtree
+Implementation-URL: https://spring.io/projects/spring-boot/ShoppingCartM
+ egamart_May01
+Created-By: Maven Integration for Eclipse
+
